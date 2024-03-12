@@ -163,8 +163,8 @@ Once the installation is complete, a confirmation page will be displayed.
 Conclude the process by deleting the setup folder, restoring file permissions in 'ost-config.php' to 'Read', and accessing the help desk login page at http://localhost/osTicket/scp/login.php. Confirm successful loading of the login page.
 </p>
 <p align="center">
-<img src="https://i.imgur.com/swLbMQA.png" height="40%" width="40%" />
+<img src="https://i.imgur.com/2KVREQT.png" height="40%" width="40%" />
 </p>
-<p>
+
 Thanks
 </>
