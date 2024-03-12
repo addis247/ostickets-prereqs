@@ -137,8 +137,7 @@ Rename 'ost-sampleconfig.php' to 'ost-config.php' within the osTicket folder, ad
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/R1jXSso.png" height="60%" width="60%" />
-</p>
+
 <p>
 Download and install HeidiSQL. Create a new database named 'osTicket' within HeidiSQL.
 </p>
